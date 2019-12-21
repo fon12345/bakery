@@ -7,8 +7,9 @@ namespace Bakery.Models
 {
     public class Cake : Product
     {
-        public Cake(string name, int price, string description)
+        public Cake(int id, string name, int price, string description)
         {
+            Id = id;
             Name = name;
             Price = price;
             Description = description;

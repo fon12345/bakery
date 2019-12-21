@@ -7,9 +7,12 @@ namespace Bakery.Models
 {
     public abstract class Product
     {
+        public int Id { get; set; }
         public string Name { get; protected set; }
         public int Price { get; protected set; }
         public string Description { get; protected set; }
     }
+
+
 
 }

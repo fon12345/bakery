@@ -7987,11 +7987,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ASP.NET\\Bakery\\XUnitTestProject1\\XUnitTestProject1.csproj",
+      "projectUniqueName": "D:\\ASP.NET\\bakery\\XUnitTestProject1\\XUnitTestProject1.csproj",
       "projectName": "XUnitTestProject1",
-      "projectPath": "D:\\ASP.NET\\Bakery\\XUnitTestProject1\\XUnitTestProject1.csproj",
+      "projectPath": "D:\\ASP.NET\\bakery\\XUnitTestProject1\\XUnitTestProject1.csproj",
       "packagesPath": "C:\\Users\\Fon\\.nuget\\packages\\",
-      "outputPath": "D:\\ASP.NET\\Bakery\\XUnitTestProject1\\obj\\",
+      "outputPath": "D:\\ASP.NET\\bakery\\XUnitTestProject1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -8010,8 +8010,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\ASP.NET\\Bakery\\Bakery\\Bakery.csproj": {
-              "projectPath": "D:\\ASP.NET\\Bakery\\Bakery\\Bakery.csproj"
+            "D:\\ASP.NET\\bakery\\Bakery\\Bakery.csproj": {
+              "projectPath": "D:\\ASP.NET\\bakery\\Bakery\\Bakery.csproj"
             }
           }
         }
@@ -8053,6 +8053,9 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }

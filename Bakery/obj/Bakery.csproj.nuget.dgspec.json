@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ASP.NET\\Bakery\\Bakery\\Bakery.csproj": {}
+    "D:\\ASP.NET\\bakery\\Bakery\\Bakery.csproj": {}
   },
   "projects": {
-    "D:\\ASP.NET\\Bakery\\Bakery\\Bakery.csproj": {
+    "D:\\ASP.NET\\bakery\\Bakery\\Bakery.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ASP.NET\\Bakery\\Bakery\\Bakery.csproj",
+        "projectUniqueName": "D:\\ASP.NET\\bakery\\Bakery\\Bakery.csproj",
         "projectName": "Bakery",
-        "projectPath": "D:\\ASP.NET\\Bakery\\Bakery\\Bakery.csproj",
+        "projectPath": "D:\\ASP.NET\\bakery\\Bakery\\Bakery.csproj",
         "packagesPath": "C:\\Users\\Fon\\.nuget\\packages\\",
-        "outputPath": "D:\\ASP.NET\\Bakery\\Bakery\\obj\\",
+        "outputPath": "D:\\ASP.NET\\bakery\\Bakery\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
